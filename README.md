@@ -1,8 +1,6 @@
 # Hello 👋
 ![Github](https://user-images.githubusercontent.com/32029746/147250349-82fef39f-4d53-4924-911d-592c2908b6a9.png)
 
-![Trial 1](https://user-images.githubusercontent.com/32029746/132721275-ddacfeea-48d9-4fcd-ac45-1554480384ca.png)
-
 Hey you my precious **hooman~!** Welcome to my ***purr***-fect workspace 🐱‍👤
 
 
