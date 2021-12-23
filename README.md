@@ -3,7 +3,11 @@
 Hey you my precious **hooman~!** Welcome to my ***purr***-fect workspace 🐱‍👤
 
 
-# Under Construction 🐱‍👓
+Social Handles
+
+----
+Under Construction
+----
 
 <!-- # Come back after **September 12** 🐱‍🚀 . . .  -->
 
