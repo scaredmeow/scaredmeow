@@ -9,7 +9,7 @@
   <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=scaredmeow&show_icons=true&count_private=true&theme=apprentice&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaredmeow&layout=compact" />
 </a>
 
 
