@@ -1,7 +1,12 @@
 [![Github](https://user-images.githubusercontent.com/32029746/168943657-88c75d85-67a2-4960-bd92-bf7c3bf03ae1.png)](https://github.com/scaredmeow?tab=repositories)
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/scaredmeow" alt="profile views">
+  <img src="https://gpvc.arturio.dev/scaredmeow" alt="profile views"> 
+  <img src="https://badges.pufler.dev/repos/scaredmeow" alt="public repos">
+  <img src="https://badges.pufler.dev/years/scaredmeow" alt="membership years">
+  <img src="https://badges.pufler.dev/commits/monthly/scaredmeow" alt="commits monthly">
+  
+  <br>
   <a href="https://github.com/scaredmeow">
     <img src="https://img.shields.io/github/followers/scaredmeow?label=Github&style=social" alt="github">
   </a>
