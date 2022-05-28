@@ -28,6 +28,9 @@
 
 I'm Neil Riego, a third-year student pursuing a **Bachelor's Degree in Computer Science** from the Philippines. I'm enthusiastic about **connecting communities using technology** and i'm achieving this through an Internship in [Kadakareer](https://www.kadakareer.com/) and as a [GDSC](https://developers.google.com/community/gdsc) Lead Alumni. I am a **jack of all trades** and currently pursuing to master Python, especially in **Automation and Data Science**. 
 
+**Checkout my Life Log at Polywork** _(Maintained by my Cat 😸):_ https://www.polywork.com/scaredmeow <br>
+**I'm also preparing my Website Portoflio** _(Software Engineering and Data Science):_ here i...`meow-i-snatched-the-link` 🐾
+
 ## My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/-R-%232c3e50?style=for-the-badge&logo=R)
@@ -52,18 +55,18 @@ I'm Neil Riego, a third-year student pursuing a **Bachelor's Degree in Computer 
 
 ## Checkout my Github Stats
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api?username=scaredmeow&show_icons=true&count_private=true&theme=apprentice&hide_border=true" />
-</a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=scaredmeow&layout=compact&hide=java,cmake&langs_count=6" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api?username=scaredmeow&show_icons=true&count_private=true&theme=apprentice&hide_border=true" />
+  </a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats-scaredmeow.vercel.app/api/top-langs/?username=scaredmeow&layout=compact&hide=java,cmake&langs_count=6" />
+  </a>
 </div>
 
 ___
 
 <div align="center">
   
-``` under-construction-please-wait-i-need-some-catnip-meow~ ```
+``` always-under-construction-please-donate-some-catnip-meow~ ```
   
 </div>
